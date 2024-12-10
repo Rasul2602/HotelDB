@@ -1,0 +1,9 @@
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\obj\Debug\HotelDB_App.csproj.AssemblyReference.cache
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\obj\Debug\HotelDB_App.Properties.Resources.resources
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\obj\Debug\HotelDB_App.csproj.GenerateResource.cache
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\obj\Debug\HotelDB_App.csproj.CoreCompileInputs.cache
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\bin\Debug\HotelDB_App.exe.config
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\bin\Debug\HotelDB_App.exe
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\bin\Debug\HotelDB_App.pdb
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\obj\Debug\HotelDB_App.exe
+C:\Users\Mr_robot\source\repos\HotelDB_App\HotelDB_App\obj\Debug\HotelDB_App.pdb
